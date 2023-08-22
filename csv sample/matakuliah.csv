@@ -1,0 +1,31 @@
+kode,mata_kuliah,dosen,kelas,jenis_kelas,sks,semester
+PAS11001, Matematika Diskrit,"Drs.SUKAMTO, M.Kom",A;B,Reguler,3,2
+PAS12010,Bahasa Inggris,"Dr.Ibnu Daqiqil id, S.Kom, M.T.I; TISHA MELIA, B.Sc., M.Sc., Ph.D.",A;B,Reguler,2,1
+UNR1003,Budaya Melayu,"DraMUNJIATUN, M.Pd;DraMUNJIATUN, M.Pd;DrsEMRIZAL MAHIDIN TAMBUSAI, M.Si ",A;B;C,Reguler,2,2
+UNR1004,Ilmu Lingkungan & Mitigasi Bencana,"DrVANDA JULITA YAHYA, M.Si;DrSITI FATONAH, MP;DrDELITA ZUL, M.Si",A;B;C,Reguler,2,2
+UNR1005,Kewirausahaan,"SUJARWATI, S.Si, M.Si;DrYULMINARTI, M.Si;DrsKHAIRIJON, MS",A;B;C,Reguler,2,2
+MSI1201,Konsep Basis Data,"AL AMINUDDIN, S.T.,M.Sc",A;B;C,Reguler,3,1
+UNR1001,Literasi Digital,"HENDRA TAUFIK, S.T., M.Sc;ANNE MUDYA YOLANDA, S.Stat., M.Si.",A-21,Reguler,1,2
+MSI1203,Pemrograman Berorientasi Objek,"AIDIL FITRIANSYAH, S. Kom, M.Kom",A;B;C,Reguler,3,2
+UXN1007,Pendidikan Pancasila,"SUPRIADI, M.Pd;MUHADI FEBRO, MM;ADE VERAWATI,M.Pd",A;B;C,Reguler,2,1
+MSI1204,Sistem Operasi,"RIKI ARIO NUGROHO, S.Si., M.Kom;ALFIRMAN, S.Kom, M.Kom",A;B,Reguler,3,2
+PAS22122,Evaluasi Antarmuka Pengguna,"FATAYAT, SKom, M.Kom",A;B;C,Bersyarat,3,3
+PAS22018,Keamanan Sistem Informasi,"ALFIRMAN, S.Kom, M.Kom;ZUL INDRA, S.T., M.Sc.",A;B,Reguler,3,4
+UXN12116,Kewarganegaraan,"Jaya Paldi, M.Pd,",A;B,Reguler,2,1
+MSI2202,Komputasi Awan,"TISHA MELIA, B.Sc., M.Sc., Ph.D.",A;B,Bersyarat,3,4
+PAS22016,Manajemen & Administrasi Basis Data,"RONI SALAMBUE, S.Kom., M.Si",A;B;C,Bersyarat,3,5
+PAS22019,Pemodelan Proses Bisnis,"YANTI ANDRIYANI, ST, M.TI, Ph.D",A;B,Bersyarat,3,4
+MSI2207,Pemrograman Bahasa Alami,"ZUL INDRA, S.T., M.Sc.",A;B,Bersyarat,3,4
+PAS22020,Pengembangan Sistem Informasi Berbasis Web,"ZAIFUL BAHRI, S.Si, M.Kom",A;B;C,Reguler,3,4
+PAS22017,Proses Bisnis Elektronik,"Dr.ELFIZAR, S.Si., M.Kom",A;B,Reguler,3,6
+MSI2205,Rekayasa Proses Bisnis,"YANTI ANDRIYANI, ST, M.TI, Ph.D",A;B,Reguler,3,3
+MSI2204,Sistem Cerdas,"DRRAHMAD KURNIAWAN, S.T.,M.I.T.; Dr.Ibnu Daqiqil id, S.Kom, M.T.I",A;B,Reguler,3,4
+MSI2206,Sistem Informasi Geografis,"GITA SASTRIA, ST, MIT",A;B,Bersyarat,3,4
+PAS32034,Etika Profesi Sistem Informasi,"Dr.ELFIZAR, S.Si., M.Kom;SONYA MEITARICE, M.Sc",A;B,Bersyarat,2,7
+PAS32036,Manajemen Proyek Sistem Informasi,"EVFI MAHDIYAH, S.Kom, MIT;DRRAHMAD KURNIAWAN, S.T.,M.I.T.",A;B;C;D,Bersyarat,3,7
+MIP11085,Metodelogi Penelitian,"RONI SALAMBUE, S.Kom., M.Si; DRRAHMAD KURNIAWAN, S.T.,M.I.T.",A;B;C,Bersyarat,3,6
+PAS32035,Perancangan Strategis Sistem Informasi,"YANTI ANDRIYANI, ST, M.TI, Ph.D;JOKO RISANTO, S. Kom, M.Kom",B,Bersyarat,3,6
+PAS32139,Sistem Informasi Geografis Terdistribusi Lanjut,"Dr.Ibnu Daqiqil id, S.Kom, M.T.I",A;B,Bersyarat,3,7
+PAS43041,Kerja Praktek,"DrsSUKAMTO, M.Kom",A;B;C,Reguler,4,6
+PAS44043,Kuliah Kerja Nyata,"DrsSUKAMTO, M.Kom",A;B;C,Reguler,4,4
+PAS44044,Skripsi,"DrsSUKAMTO, M.Kom",A;B;C,Reguler,6,7

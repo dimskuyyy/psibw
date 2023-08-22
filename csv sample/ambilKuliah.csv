@@ -1,0 +1,31 @@
+kode,mata_kuliah,dosen,jenis_kelas,hari,waktu,ruangan,sks
+PAS11001, Matematika Diskrit,"Drs.SUKAMTO, M.Kom",Reguler,Senin,07:30-09:00,101,3
+PAS12010,Bahasa Inggris,"Dr.Ibnu Daqiqil id, S.Kom, M.T.I",Reguler,Selasa,07:30-09:01,203,2
+UNR1003,Budaya Melayu,"DraMUNJIATUN, M.Pd,",Reguler,Rabu,07:30-09:02,301,2
+UNR1004,Ilmu Lingkungan & Mitigasi Bencana,"DrVANDA JULITA YAHYA, M.Si",Reguler,Kamis,07:30-09:03,204,2
+UNR1005,Kewirausahaan,"SUJARWATI, S.Si, M.Si",Reguler,Jumat,07:30-09:04,309,2
+MSI1201,Konsep Basis Data,"AL AMINUDDIN, S.T.,M.Sc",Reguler,Senin,07:30-09:05,205,3
+UNR1001,Literasi Digital,"HENDRA TAUFIK, S.T., M.Sc",Reguler,Selasa,07:30-09:06,108,1
+MSI1203,Pemrograman Berorientasi Objek,"AIDIL FITRIANSYAH, S. Kom, M.Kom",Reguler,Rabu,07:30-09:07,303,3
+UXN1007,Pendidikan Pancasila,"SUPRIADI, M.Pd",Reguler,Kamis,07:30-09:08,301,2
+MSI1204,Sistem Operasi,"RIKI ARIO NUGROHO, S.Si., M.Kom",Reguler,Jumat,07:30-09:09,101,3
+PAS22122,Evaluasi Antarmuka Pengguna,"FATAYAT, SKom, M.Kom",Bersyarat,Selasa,07:30-09:10,203,3
+PAS22018,Keamanan Sistem Informasi,"ALFIRMAN, S.Kom, M.Kom",Reguler,Rabu,07:30-09:11,305,3
+UXN12116,Kewarganegaraan,"Jaya Paldi, M.Pd",Reguler,Kamis,07:30-09:12,108,2
+MSI2202,Komputasi Awan,"TISHA MELIA, B.Sc., M.Sc., Ph.D.",Bersyarat,Jumat,07:30-09:13,105,3
+PAS22016,Manajemen & Administrasi Basis Data,"RONI SALAMBUE, S.Kom., M.Si",Bersyarat,Kamis,07:30-09:14,205,3
+PAS22019,Pemodelan Proses Bisnis,"YANTI ANDRIYANI, ST, M.TI, Ph.D",Bersyarat,Jumat,07:30-09:15,306,3
+MSI2207,Pemrograman Bahasa Alami,"ZUL INDRA, S.T., M.Sc.",Bersyarat,Senin,07:30-09:16,308,3
+PAS22020,Pengembangan Sistem Informasi Berbasis Web,"ZAIFUL BAHRI, S.Si, M.Kom",Reguler,Selasa,07:30-09:17,309,3
+PAS22017,Proses Bisnis Elektronik,"Dr.ELFIZAR, S.Si., M.Kom",Reguler,Rabu,07:30-09:18,102,3
+MSI2205,Rekayasa Proses Bisnis,"YANTI ANDRIYANI, ST, M.TI, Ph.D",Reguler,Kamis,07:30-09:19,302,3
+MSI2204,Sistem Cerdas,"DR.RAHMAD KURNIAWAN, S.T.,M.I.T.",Reguler,Jumat,07:30-09:20,301,3
+MSI2206,Sistem Informasi Geografis,"GITA SASTRIA, ST, MIT",Bersyarat,Senin,07:30-09:21,203,3
+PAS32034,Etika Profesi Sistem Informasi,"Dr.ELFIZAR, S.Si., M.Kom",Bersyarat,Selasa,07:30-09:22,102,2
+PAS32036,Manajemen Proyek Sistem Informasi,"EVFI MAHDIYAH, S.Kom, MIT",Bersyarat,Rabu,07:30-09:23,304,3
+MIP11085,Metodelogi Penelitian,"RONI SALAMBUE, S.Kom., M.Si",Bersyarat,Kamis,07:30-09:24,301,3
+PAS32035,Perancangan Strategis Sistem Informasi,"YANTI ANDRIYANI, ST, M.TI, Ph.D",Bersyarat,Jumat,07:30-09:25,306,3
+PAS32139,Sistem Informasi Geografis Terdistribusi Lanjut,"Dr.Ibnu Daqiqil id, S.Kom, M.T.I",Bersyarat,Selasa,07:30-09:26,303,3
+PAS43041,Kerja Praktek,"DrsSUKAMTO, M.Kom",Reguler,Rabu,07:30-09:27,102,4
+PAS44043,Kuliah Kerja Nyata,"DrsSUKAMTO, M.Kom",Reguler,Kamis,07:30-09:28,101,4
+PAS44044,Skripsi,"DrsSUKAMTO, M.Kom",Reguler,Jumat,07:30-09:29,103,6
